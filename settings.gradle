@@ -1,1 +1,1 @@
-include ':app', ':urirouter', ':test'
+include ':app', ':urirouter', ':map'

@@ -8,6 +8,6 @@ package com.shanks.sea;
 public class RouterInit {
 
     public static void init() {
-       new com.shanks.test.RouterRegister().init();
+       new com.shanks.map.RouterRegister().init();
     }
 }
