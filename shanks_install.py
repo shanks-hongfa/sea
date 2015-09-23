@@ -251,7 +251,7 @@ def remove_force_module(name):
             os.remove(path)
 
 # install_module("mylibraryssslll")
-uninstall_module("test")
+install_module("map")
 #install_module("map")
    # compile project(":mylibrary")
    #  compile project(":reactnative")
