@@ -24,13 +24,13 @@ public class MainActivity extends AppCompatActivity {
         add("test", new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                UriManager.open(MainActivity.this, "shanks://shanks.uri/test/test");
+                UriManager.open(MainActivity.this, "shanks://shanks.uri/test/main");
             }
         });
         add("main", new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                UriManager.open(MainActivity.this, "shanks://shanks.uri/test/main");
+                UriManager.open(MainActivity.this, "shanks://shanks.uri/map/main");
             }
         });
     }
