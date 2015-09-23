@@ -1,0 +1,6 @@
+<resources>
+    <string name="map_app_name">map</string>
+
+    <string name="map_hello_world">Hello world!</string>
+    <string name="map_action_settings">Settings</string>
+</resources>
